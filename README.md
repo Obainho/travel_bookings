@@ -1,6 +1,6 @@
 # travel_bookings
 
-A new Flutter project.
+A new Flutter project about the App Drawer menu.
 
 ## Getting Started
 
